@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [❍➖⃟🥀𝙎𝙃𝙄𝙑𝘼❜⍣⃪͜✘𝘿"𓆩᪵🤍💸𓆪̥](https://github.com/FRANCIUM444) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/FRANCIUM444/SONA_MUSIC_BOTT)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [SHIVA](https://github.com/FRANCIUM444) ғᴏʀ [SONA MUSIC BOT](https://github.com/FRANCIUM444/SONA_MUSIC_BOTT)_ </b>
